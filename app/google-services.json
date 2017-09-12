@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "548911209763",
+    "firebase_url": "https://iron-edff5.firebaseio.com",
+    "project_id": "iron-edff5",
+    "storage_bucket": "iron-edff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548911209763:android:98d2dd4440960eea",
+        "android_client_info": {
+          "package_name": "com.example.lyndonamat.iron"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548911209763-vrgqpni8oe3qjrf2t54ngsa931mhtoh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lyndonamat.iron",
+            "certificate_hash": "311c8ff54dd3c186ca812a8f2f53eb3b6a6e6da8"
+          }
+        },
+        {
+          "client_id": "548911209763-hogk4bmnqn5m2hruelmvteghtrpeg57q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOc0S5WH6uTSI_c8vB8gtBZTqaC9vtYFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548911209763-hogk4bmnqn5m2hruelmvteghtrpeg57q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
